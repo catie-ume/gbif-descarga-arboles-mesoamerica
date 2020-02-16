@@ -7,7 +7,7 @@ Para ejecutar el _notebook_, se recomienda utilizar versión de Jupyter incluida
 
 **1. Clonación del repositorio**
 ```terminal
-$ git clone https://github.com/gbif-descarga-arboles-mesoamerica.git
+$ git clone https://github.com/catie-ume/gbif-descarga-arboles-mesoamerica.git
 $ cd gbif-descarga-arboles-mesoamerica
 ```
 
